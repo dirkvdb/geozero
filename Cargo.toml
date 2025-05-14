@@ -31,7 +31,7 @@ dup-indexer = "0.3"
 env_logger = "0.10.0"
 futures-util = "0.3.28"
 gdal = { version = "0.17", default-features = false }
-gdal-sys = "0.10"
+gdal-sys = "0.11"
 geo = "0.26.0"
 geo-types = { version = "0.7.11", default-features = false }
 geojson = { version = "0.24.1", default-features = false }
